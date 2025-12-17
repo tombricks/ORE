@@ -1,0 +1,6 @@
+equipments = {
+	load_bearing_equipment = {
+		is_archetype = yes
+		type = train
+	}
+}

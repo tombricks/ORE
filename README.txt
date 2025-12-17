@@ -16,6 +16,8 @@ common/resources/00_resources.txt has a load_bearing_resource which is reference
 
 common/special_projects/specialization/00_specialiations.txt has the default specializations or it crashes
 
+common/units/equipment/00_equipment.txt has load_bearing_equipment train to avoid crash
+
 KNOWN CRASHES
 
 releasing a puppet
