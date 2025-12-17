@@ -1,3 +1,5 @@
+ORE (which stands for nothing) is a HOI4 mod which strips the game as close to the metal as it can without removing the tags and states (for now, this will presumably change).
+
 REMAINING ENTRIES
 
 common/autonomous_states/00_autonomous_states.txt is blank but this causes a crash when trying to release a puppet
