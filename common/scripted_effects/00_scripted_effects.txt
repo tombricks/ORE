@@ -1,0 +1,16 @@
+log_all = {
+	for_loop_effect = {
+		value = ro
+		end = 100
+		set_temp_variable = { ro_start = ro }
+		multiply_temp_variable = { ro_start = 1000 }
+		set_temp_variable = { ro_end = ro_start }
+		add_to_temp_variable = { ro_end = 1000 }
+		for_loop_effect = {
+			value = ro2
+			start = ro_start
+			end = ro_end
+			log = "[?ro2]: [?ro2.GetTokenKey]"
+		}
+	}
+}

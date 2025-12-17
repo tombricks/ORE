@@ -1,7 +1,5 @@
 REMAINING ENTRIES
 
-common/ai_templates/00_ai_templates.txt is not blank for now because of a client_ping crash
-
 common/autonomous_states/00_autonomous_states.txt is blank but this causes a crash when trying to release a puppet
 
 common/bookmarks/00_bookmarks.txt has a blank bookmark with only a "---" entry so the game can be entered
