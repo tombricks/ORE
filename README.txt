@@ -21,3 +21,5 @@ KNOWN CRASHES
 releasing a puppet
 
 entering a peace conference
+
+going to build equipment
