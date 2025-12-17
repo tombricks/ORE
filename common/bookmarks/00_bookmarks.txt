@@ -1,0 +1,17 @@
+bookmarks = {
+	bookmark = {
+		name = "BOOKMARK_NAME"
+		desc = "BOOKMARK_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "---"
+		default = yes
+		
+		"---"={
+			history = "OTHER_BOOKMARK_DESC"
+		}
+
+		effect = {
+		}
+	}
+}

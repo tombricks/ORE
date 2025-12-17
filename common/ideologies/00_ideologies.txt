@@ -1,0 +1,4 @@
+ideologies = {
+	load_bearing_ideology = {
+	}
+}

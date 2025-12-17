@@ -1,0 +1,5 @@
+resources = {
+	load_bearing_resource = {
+		icon_frame = 1
+	}
+}

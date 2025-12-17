@@ -1,0 +1,148 @@
+buildings = {
+
+	infrastructure = {
+		base_cost = 6000
+		icon_frame = 3
+		infrastructure = yes
+		value = 1
+
+		show_modifier = yes
+		allied_build = yes
+		affects_energy = yes
+
+		infrastructure_construction_effect = yes
+		level_cap = {
+			state_max = 5
+		}
+		country_modifiers = {
+			modifiers = {
+				max_fuel_building = 1.5 #k
+			}
+		}
+	}
+
+	arms_factory = {
+		show_on_map = 6
+		base_cost = 7200
+		base_cost_conversion = 4000
+		military_production = 1
+		disabled_in_dmz = yes
+		icon_frame = 2
+		value = 8
+		infrastructure_construction_effect = yes
+		level_cap = {
+			shares_slots = yes
+			state_max = 20
+		}
+	}
+
+	industrial_complex = {
+		show_on_map = 6
+		base_cost = 10800
+		base_cost_conversion = 9000
+		general_production = 1
+		icon_frame = 1
+		value = 5
+		infrastructure_construction_effect = yes
+		level_cap = {
+			shares_slots = yes
+			state_max = 20
+		}
+	}
+
+	air_base = {
+		show_on_map = 1
+		base_cost = 1250
+		icon_frame = 5
+		air_base = yes
+		value = 1
+		damage_factor = 0.5
+		allied_build = yes
+		infrastructure_construction_effect = yes
+		level_cap = {
+			state_max = 10
+		}
+	}
+
+	supply_node = {
+		show_on_map = 1
+		base_cost = 20000
+		disabled_in_dmz = yes
+		icon_frame = 15
+		centered = yes
+		supply_node = yes
+		damage_factor = 0.1
+		allied_build = yes
+		always_shown = yes
+		infrastructure_construction_effect = yes
+		level_cap = {
+			province_max = 1
+		}
+		tags = { supply_building }
+	}	
+	
+	rail_way = { # NECESSARY
+		base_cost = 170
+		per_level_extra_cost = 130
+		disabled_in_dmz = yes
+		icon_frame = 16
+		infrastructure_construction_effect = yes
+		level_cap = {
+			province_max = 1
+		}
+	}
+
+	naval_base = { # NECESSARY
+		show_on_map = 1
+		show_on_map_meshes = 3
+		always_shown = yes
+		base_cost = 5000
+		per_level_extra_cost = 1000
+		spawn_point = naval_base_spawn 
+		only_costal = yes
+		is_port = yes
+		icon_frame = 6
+		value = 1
+		tags = { naval_buildings_tag }
+		allied_build = yes
+		infrastructure_construction_effect = yes
+		level_cap = {
+			province_max = 10
+		}
+	}
+}
+
+spawn_points = {
+	nuclear_reactor_spawn = {
+		type = state
+		max = 1
+	}
+
+	special_project_facility_spawn = {
+		type = province
+		max = 1
+	}
+
+	rocket_site_spawn = {
+		type = state
+		max = 1
+	}
+
+	naval_base_spawn = {
+		type = province
+		max = 1
+		only_costal = yes
+	}
+
+	dam_spawn = {
+		type = province
+		max = 1
+		disable_auto_nudging = yes
+	}
+
+	locks_spawn = {
+		type = province
+		max = 1
+		disable_auto_nudging = yes
+	}
+}
