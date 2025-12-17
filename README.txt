@@ -1,3 +1,5 @@
+REMAINING ENTRIES
+
 common/ai_templates/00_ai_templates.txt is not blank for now because of a client_ping crash
 
 common/autonomous_states/00_autonomous_states.txt is blank but this causes a crash when trying to release a puppet
@@ -13,3 +15,9 @@ common/national_focus/00_national_focus.txt has a blank focus tree to avoid cras
 common/resources/00_resources.txt has a load_bearing_resource which is referenced in 00_defines.lua
 
 common/special_projects/specialization/00_specialiations.txt has the default specializations or it crashes
+
+KNOWN CRASHES
+
+releasing a puppet
+
+entering a peace conference
