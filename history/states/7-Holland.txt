@@ -1,0 +1,22 @@
+state = {
+	id = 7
+	name = "STATE_7"
+	manpower = 4123000
+	history = {
+		owner = HOL
+		add_core_of = HOL
+		victory_points = {
+			391 40
+		}
+		victory_points = {
+			3211 10
+		}
+		victory_points = {
+			9498 20
+		}
+	}
+	provinces = {
+		68 391 3211 3314 9498
+	}
+	local_supplies = 0.0
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 654
+	name = "STATE_654"
+	manpower = 153510
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = ALT
+		victory_points = {
+			4800 1
+		}
+	}
+	provinces = {
+		4781 4800 10531 10713 12509
+	}
+	local_supplies = 0.0
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 685
+	name = "STATE_685"
+	manpower = 39467
+	history = {
+		owner = USA
+		add_core_of = PAN
+		victory_points = {
+			7617 5
+		}
+	}
+	provinces = {
+		7617
+	}
+	local_supplies = 0.0
+}

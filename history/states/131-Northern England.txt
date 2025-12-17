@@ -1,0 +1,16 @@
+state = {
+	id = 131
+	name = "STATE_131"
+	manpower = 2128860
+	history = {
+		owner = ENG
+		add_core_of = ENG
+		victory_points = {
+			351 8
+		}
+	}
+	provinces = {
+		351 11270 11299
+	}
+	local_supplies = 0.0
+}

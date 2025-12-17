@@ -1,0 +1,17 @@
+state = {
+	id = 722
+	name = "STATE_722"
+	manpower = 2371
+	history = {
+		owner = FIN
+		add_core_of = FIN
+		add_core_of = SMI
+		victory_points = {
+			9140 1
+		}
+	}
+	provinces = {
+		6012 6183 9140 11142
+	}
+	local_supplies = 0.0
+}

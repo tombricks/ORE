@@ -1,0 +1,13 @@
+state = {
+	id = 968
+	name = "STATE_968"
+	manpower = 12300
+	history = {
+		owner = BRA
+		add_core_of = BRA
+	}
+	provinces = {
+		5008 13277 13338
+	}
+	local_supplies = 0.0
+}

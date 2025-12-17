@@ -1,0 +1,17 @@
+state = {
+	id = 622
+	name = "STATE_622"
+	manpower = 1278000
+	history = {
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = CHI
+		victory_points = {
+			12356 1
+		}
+	}
+	provinces = {
+		4939 10880 12356
+	}
+	local_supplies = 0.0
+}

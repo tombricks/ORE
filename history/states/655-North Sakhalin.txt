@@ -1,0 +1,15 @@
+state = {
+	id = 655
+	name = "STATE_655"
+	manpower = 94759
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = FER
+		add_core_of = ANU
+	}
+	provinces = {
+		855 1742 1755
+	}
+	local_supplies = 0.0
+}

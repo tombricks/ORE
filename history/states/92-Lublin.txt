@@ -1,0 +1,16 @@
+state = {
+	id = 92
+	name = "STATE_92"
+	manpower = 2464600
+	history = {
+		owner = POL
+		add_core_of = POL
+		victory_points = {
+			11399 1
+		}
+	}
+	provinces = {
+		3521 3559 6484 6580 9452 9521 9544 11399 11466
+	}
+	local_supplies = 0.0
+}

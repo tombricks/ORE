@@ -1,0 +1,16 @@
+state = {
+	id = 311
+	name = "STATE_311"
+	manpower = 51000
+	history = {
+		owner = ENG
+		add_core_of = BLZ
+		victory_points = {
+			2077 1
+		}
+	}
+	provinces = {
+		2077
+	}
+	local_supplies = 0.0
+}

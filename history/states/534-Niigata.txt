@@ -1,0 +1,22 @@
+state = {
+	id = 534
+	name = "STATE_534"
+	manpower = 2064402
+	history = {
+		owner = JAP
+		add_core_of = JAP
+		victory_points = {
+			1117 10
+		}
+		victory_points = {
+			10128 1
+		}
+		victory_points = {
+			10015 10
+		}
+	}
+	provinces = {
+		1117 9952 10015 10128 11930 11989 12007
+	}
+	local_supplies = 0.0
+}

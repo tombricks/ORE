@@ -1,0 +1,17 @@
+state = {
+	id = 792
+	name = "STATE_792"
+	manpower = 928094
+	history = {
+		owner = SPR
+		add_core_of = NAV
+		add_core_of = SPR
+		victory_points = {
+			740 10
+		}
+	}
+	provinces = {
+		740 3735 6756 13233
+	}
+	local_supplies = 0.0
+}

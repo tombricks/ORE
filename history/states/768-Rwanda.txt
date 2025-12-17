@@ -1,0 +1,16 @@
+state = {
+	id = 768
+	name = "STATE_768"
+	manpower = 1716564
+	history = {
+		owner = BEL
+		add_core_of = RWA
+		victory_points = {
+			9962 1
+		}
+	}
+	provinces = {
+		9962 13364
+	}
+	local_supplies = 0.0
+}

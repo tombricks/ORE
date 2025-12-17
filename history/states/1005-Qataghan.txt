@@ -1,0 +1,17 @@
+state = {
+	id = 1005
+	name = "STATE_1005"
+	manpower = 925226
+	history = {
+		owner = AFG
+		add_core_of = AFG
+		add_core_of = TAJ
+		victory_points = {
+			10781 1
+		}
+	}
+	provinces = {
+		7519 10781 10826 12314 12653
+	}
+	local_supplies = 0.0
+}

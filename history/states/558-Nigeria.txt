@@ -1,0 +1,16 @@
+state = {
+	id = 558
+	name = "STATE_558"
+	manpower = 19757000
+	history = {
+		owner = ENG
+		add_core_of = NGA
+		victory_points = {
+			2050 5
+		}
+	}
+	provinces = {
+		2050 4952 12731 12817 12900
+	}
+	local_supplies = 0.0
+}

@@ -1,0 +1,12 @@
+state = {
+	id = 713
+	name = "STATE_713"
+	manpower = 96
+	history = {
+		owner = FRA
+	}
+	provinces = {
+		2165
+	}
+	local_supplies = 0.0
+}

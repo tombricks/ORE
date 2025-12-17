@@ -1,0 +1,16 @@
+state = {
+	id = 911
+	name = "STATE_911"
+	manpower = 497073
+	history = {
+		owner = DEN
+		add_core_of = DEN
+		victory_points = {
+			3325 5
+		}
+	}
+	provinces = {
+		3325 3374 13260
+	}
+	local_supplies = 0.0
+}

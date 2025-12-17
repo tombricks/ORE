@@ -1,0 +1,28 @@
+state = {
+	id = 279
+	name = "STATE_279"
+	manpower = 2635146
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		victory_points = {
+			650 15
+		}
+		victory_points = {
+			8194 3
+		}
+		victory_points = {
+			8222 5
+		}
+		victory_points = {
+			12984 2
+		}
+		victory_points = {
+			8251 1
+		}
+	}
+	provinces = {
+		650 5191 8194 8222 8229 8251 12984
+	}
+	local_supplies = 0.0
+}

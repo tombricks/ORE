@@ -1,0 +1,19 @@
+state = {
+	id = 11
+	name = "STATE_11"
+	manpower = 971940
+	history = {
+		owner = LIT
+		add_core_of = LIT
+		victory_points = {
+			6296 5
+		}
+		victory_points = {
+			9357 1
+		}
+	}
+	provinces = {
+		327 6296 6360 9357 9404
+	}
+	local_supplies = 0.0
+}

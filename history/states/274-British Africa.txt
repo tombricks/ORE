@@ -1,0 +1,19 @@
+state = {
+	id = 274
+	name = "STATE_274"
+	manpower = 3163600
+	history = {
+		owner = ENG
+		add_core_of = GHA
+		victory_points = {
+			10862 2
+		}
+		victory_points = {
+			12787 1
+		}
+	}
+	provinces = {
+		8039 8096 10862 12742 12785 12787 13136
+	}
+	local_supplies = 0.0
+}

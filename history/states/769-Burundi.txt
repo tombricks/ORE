@@ -1,0 +1,16 @@
+state = {
+	id = 769
+	name = "STATE_769"
+	manpower = 2145731
+	history = {
+		owner = BEL
+		add_core_of = BRD
+		victory_points = {
+			2220 1
+		}
+	}
+	provinces = {
+		2220 13363
+	}
+	local_supplies = 0.0
+}

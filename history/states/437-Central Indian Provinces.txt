@@ -1,0 +1,16 @@
+state = {
+	id = 437
+	name = "STATE_437"
+	manpower = 9628198
+	history = {
+		owner = RAJ
+		add_core_of = CIP
+		victory_points = {
+			4106 5
+		}
+	}
+	provinces = {
+		2092 2105 4106 7080 7205 8076 10816 11993 11995 12080
+	}
+	local_supplies = 0.0
+}

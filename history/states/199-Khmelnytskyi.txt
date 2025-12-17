@@ -1,0 +1,17 @@
+state = {
+	id = 199
+	name = "STATE_199"
+	manpower = 1424022
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = UKR
+		victory_points = {
+			3457 3
+		}
+	}
+	provinces = {
+		462 3430 3457 3511 6429 6509
+	}
+	local_supplies = 0.0
+}

@@ -1,0 +1,20 @@
+state = {
+	id = 144
+	name = "STATE_144"
+	manpower = 142100
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		add_core_of = SMI
+		victory_points = {
+			192 5
+		}
+		victory_points = {
+			9126 1
+		}
+	}
+	provinces = {
+		38 192 3034 3132 3145 9126 11157 6214
+	}
+	local_supplies = 0.0
+}

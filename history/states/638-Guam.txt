@@ -1,0 +1,16 @@
+state = {
+	id = 638
+	name = "STATE_638"
+	manpower = 75153
+	history = {
+		owner = USA
+		add_core_of = GUM
+		victory_points = {
+			12140 1
+		}
+	}
+	provinces = {
+		12140
+	}
+	local_supplies = 0.0
+}

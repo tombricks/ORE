@@ -1,0 +1,17 @@
+state = {
+	id = 850
+	name = "STATE_850"
+	manpower = 370739
+	history = {
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = LBV
+		victory_points = {
+			9598 1
+		}
+	}
+	provinces = {
+		6631 9598
+	}
+	local_supplies = 0.0
+}

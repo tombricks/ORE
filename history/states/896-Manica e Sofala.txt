@@ -1,0 +1,13 @@
+state = {
+	id = 896
+	name = "STATE_896"
+	manpower = 188600
+	history = {
+		owner = POR
+		add_core_of = MZB
+	}
+	provinces = {
+		2120 5155 12935 12950
+	}
+	local_supplies = 0.0
+}

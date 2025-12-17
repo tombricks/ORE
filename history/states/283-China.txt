@@ -1,0 +1,21 @@
+state = {
+	id = 283
+	name = "STATE_283"
+	manpower = 2705400
+	history = {
+		owner = XSM
+		add_core_of = XSM
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			7911 1
+		}
+		victory_points = {
+			2022 3
+		}
+	}
+	provinces = {
+		531 556 1647 1933 2022 4313 7397 7911 12797 12882
+	}
+	local_supplies = 0.0
+}

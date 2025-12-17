@@ -1,0 +1,17 @@
+state = {
+	id = 889
+	name = "STATE_889"
+	manpower = 708190
+	history = {
+		owner = BEL
+		add_core_of = COG
+		add_core_of = KAT
+		victory_points = {
+			191 2
+		}
+	}
+	provinces = {
+		191 1516 1817 1968 4515 12795 12907
+	}
+	local_supplies = 0.0
+}

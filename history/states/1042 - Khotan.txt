@@ -1,0 +1,21 @@
+state = {
+	id = 1042
+	name = "STATE_1042"
+	manpower = 380000
+	history = {
+		owner = SIK
+		add_core_of = SIK
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			4973 3
+		}
+		victory_points = {
+			1970 1
+		}
+	}
+	provinces = {
+		1943 1970 4973 8112 10315 10911
+	}
+	local_supplies = 0.0
+}

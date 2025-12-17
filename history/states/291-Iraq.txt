@@ -1,0 +1,22 @@
+state = {
+	id = 291
+	name = "STATE_291"
+	manpower = 1044165
+	history = {
+		owner = IRQ
+		add_core_of = IRQ
+		victory_points = {
+			2097 10
+		}
+		victory_points = {
+			7994 1
+		}
+		victory_points = {
+			3795 2
+		}
+	}
+	provinces = {
+		2097 3795 7994 10876 12046 12839 12855
+	}
+	local_supplies = 0.0
+}

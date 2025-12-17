@@ -1,0 +1,17 @@
+state = {
+	id = 902
+	name = "STATE_902"
+	manpower = 332479
+	history = {
+		owner = ENG
+		add_core_of = NGA
+		add_core_of = SOK
+		victory_points = {
+			1891 1
+		}
+	}
+	provinces = {
+		1891 1932 1969 2025 4938 4972 8021
+	}
+	local_supplies = 0.0
+}

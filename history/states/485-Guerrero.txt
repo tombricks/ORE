@@ -1,0 +1,22 @@
+state = {
+	id = 485
+	name = "STATE_485"
+	manpower = 1598311
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		victory_points = {
+			10730 5
+		}
+		victory_points = {
+			4887 3
+		}
+		victory_points = {
+			8032 1
+		}
+	}
+	provinces = {
+		4887 5066 8032 10730 10832
+	}
+	local_supplies = 0.0
+}

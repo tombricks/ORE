@@ -1,0 +1,24 @@
+state = {
+	id = 617
+	name = "STATE_617"
+	manpower = 1080500
+	history = {
+		owner = SIK
+		add_core_of = SIK
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			4709 5
+		}
+		victory_points = {
+			10545 1
+		}
+		victory_points = {
+			4682 1
+		}
+	}
+	provinces = {
+		1703 4682 4709 4770 7702 7792 7850 10545 10614 12526 12601 12656
+	}
+	local_supplies = 0.0
+}

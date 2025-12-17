@@ -1,0 +1,18 @@
+state = {
+	id = 1044
+	name = "STATE_1044"
+	manpower = 1010300
+	history = {
+		owner = XSM
+		add_core_of = XSM
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			5100 1
+		}
+	}
+	provinces = {
+		1630 5057 5100 12327 12776
+	}
+	local_supplies = 0.0
+}

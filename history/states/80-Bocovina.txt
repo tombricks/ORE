@@ -1,0 +1,17 @@
+state = {
+	id = 80
+	name = "STATE_80"
+	manpower = 474600
+	history = {
+		owner = ROM
+		add_core_of = ROM
+		add_core_of = UKR
+		victory_points = {
+			577 1
+		}
+	}
+	provinces = {
+		577 9548
+	}
+	local_supplies = 0.0
+}

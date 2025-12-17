@@ -1,0 +1,22 @@
+state = {
+	id = 327
+	name = "STATE_327"
+	manpower = 2277042
+	history = {
+		owner = PHI
+		add_core_of = PHI
+		victory_points = {
+			10265 15
+		}
+		victory_points = {
+			1221 1
+		}
+		victory_points = {
+			4288 1
+		}
+	}
+	provinces = {
+		1221 1288 1388 4233 4288 7323 10236 10265 10272 12236
+	}
+	local_supplies = 0.0
+}

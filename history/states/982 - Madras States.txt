@@ -1,0 +1,16 @@
+state = {
+	id = 982
+	name = "STATE_982"
+	manpower = 7600000
+	history = {
+		owner = RAJ
+		add_core_of = RAS
+		victory_points = {
+			1321 3
+		}
+	}
+	provinces = {
+		1321 1409 7288 7402 12247
+	}
+	local_supplies = 0.0
+}

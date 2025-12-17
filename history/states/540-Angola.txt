@@ -1,0 +1,16 @@
+state = {
+	id = 540
+	name = "STATE_540"
+	manpower = 1600000
+	history = {
+		owner = POR
+		add_core_of = ANG
+		victory_points = {
+			8248 1
+		}
+	}
+	provinces = {
+		5158 7548 8219 8248 12981 13371 13373
+	}
+	local_supplies = 0.0
+}

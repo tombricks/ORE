@@ -1,0 +1,16 @@
+state = {
+	id = 294
+	name = "STATE_294"
+	manpower = 369000
+	history = {
+		owner = OMA
+		add_core_of = OMA
+		victory_points = {
+			10760 3
+		}
+	}
+	provinces = {
+		1947 4993 8002 8020 10760
+	}
+	local_supplies = 0.0
+}

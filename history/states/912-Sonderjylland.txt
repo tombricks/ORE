@@ -1,0 +1,16 @@
+state = {
+	id = 912
+	name = "STATE_912"
+	manpower = 418058
+	history = {
+		owner = DEN
+		add_core_of = DEN
+		victory_points = {
+			13258 1
+		}
+	}
+	provinces = {
+		332 11251 13258
+	}
+	local_supplies = 0.0
+}

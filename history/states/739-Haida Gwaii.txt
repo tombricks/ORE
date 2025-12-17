@@ -1,0 +1,13 @@
+state = {
+	id = 739
+	name = "STATE_739"
+	manpower = 12684
+	history = {
+		owner = CAN
+		add_core_of = CAN
+	}
+	provinces = {
+		1869
+	}
+	local_supplies = 0.0
+}

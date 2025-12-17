@@ -1,0 +1,16 @@
+state = {
+	id = 318
+	name = "STATE_318"
+	manpower = 2380000
+	history = {
+		owner = HAI
+		add_core_of = HAI
+		victory_points = {
+			4641 5
+		}
+	}
+	provinces = {
+		1594 1635 4641
+	}
+	local_supplies = 0.0
+}

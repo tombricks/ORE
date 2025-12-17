@@ -1,0 +1,18 @@
+state = {
+	id = 1033
+	name = "STATE_1033"
+	manpower = 4145000
+	history = {
+		owner = GXC
+		add_core_of = GXC
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			10004 1
+		}
+	}
+	provinces = {
+		1018 4023 4160 7135 7192 10004 10105 11926
+	}
+	local_supplies = 0.0
+}

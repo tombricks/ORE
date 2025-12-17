@@ -1,0 +1,13 @@
+state = {
+	id = 989
+	name = "STATE_989"
+	manpower = 984612
+	history = {
+		owner = RAJ
+		add_core_of = RJP
+	}
+	provinces = {
+		10843 10866 12041 12718 12792 12876
+	}
+	local_supplies = 0.0
+}

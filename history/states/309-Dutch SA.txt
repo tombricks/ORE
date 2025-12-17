@@ -1,0 +1,16 @@
+state = {
+	id = 309
+	name = "STATE_309"
+	manpower = 152000
+	history = {
+		owner = HOL
+		add_core_of = SUR
+		victory_points = {
+			10906 1
+		}
+	}
+	provinces = {
+		1928 10906 12828
+	}
+	local_supplies = 0.0
+}

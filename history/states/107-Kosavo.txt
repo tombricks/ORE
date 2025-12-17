@@ -1,0 +1,17 @@
+state = {
+	id = 107
+	name = "STATE_107"
+	manpower = 1279121
+	history = {
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = SER
+		victory_points = {
+			11586 15
+		}
+	}
+	provinces = {
+		797 3609 3956 3984 6634 9599 11583 11586
+	}
+	local_supplies = 0.0
+}

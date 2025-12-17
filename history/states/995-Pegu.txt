@@ -1,0 +1,19 @@
+state = {
+	id = 995
+	name = "STATE_995"
+	manpower = 1272324
+	history = {
+		owner = BRM
+		add_core_of = BRM
+		victory_points = {
+			1330 15
+		}
+		victory_points = {
+			10344 1
+		}
+	}
+	provinces = {
+		1330 1650 10154 10283 10344 12127
+	}
+	local_supplies = 0.0
+}

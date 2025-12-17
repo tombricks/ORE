@@ -1,0 +1,18 @@
+state = {
+	id = 1000
+	name = "STATE_1000"
+	manpower = 715857
+	history = {
+		owner = PER
+		add_core_of = PER
+		add_core_of = KUR
+		add_core_of = AZR
+		victory_points = {
+			1896 5
+		}
+	}
+	provinces = {
+		1896 2071 4755 4825 12793
+	}
+	local_supplies = 0.0
+}

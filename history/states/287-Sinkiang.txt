@@ -1,0 +1,15 @@
+state = {
+	id = 287
+	name = "STATE_287"
+	manpower = 28000
+	history = {
+		owner = SIK
+		add_core_of = SIK
+		add_core_of = CHI
+		add_core_of = PRC
+	}
+	provinces = {
+		5016 7790 8042 8086 10885 12864
+	}
+	local_supplies = 0.0
+}

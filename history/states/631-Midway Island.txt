@@ -1,0 +1,16 @@
+state = {
+	id = 631
+	name = "STATE_631"
+	manpower = 2159
+	history = {
+		owner = USA
+		add_core_of = HAW
+		victory_points = {
+			13052 1
+		}
+	}
+	provinces = {
+		13052
+	}
+	local_supplies = 0.0
+}

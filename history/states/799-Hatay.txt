@@ -1,0 +1,17 @@
+state = {
+	id = 799
+	name = "STATE_799"
+	manpower = 234379
+	history = {
+		owner = SYR
+		add_core_of = TUR
+		add_core_of = SYR
+		victory_points = {
+			12029 1
+		}
+	}
+	provinces = {
+		12029
+	}
+	local_supplies = 0.0
+}

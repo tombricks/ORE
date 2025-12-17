@@ -1,0 +1,16 @@
+state = {
+	id = 292
+	name = "STATE_292"
+	manpower = 1000000
+	history = {
+		owner = SAU
+		add_core_of = SAU
+		victory_points = {
+			12727 5
+		}
+	}
+	provinces = {
+		5024 5093 7995 8004 8060 12727 12813 12870
+	}
+	local_supplies = 0.0
+}

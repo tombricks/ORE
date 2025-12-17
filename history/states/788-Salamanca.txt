@@ -1,0 +1,16 @@
+state = {
+	id = 788
+	name = "STATE_788"
+	manpower = 364601
+	history = {
+		owner = SPR
+		add_core_of = SPR
+		victory_points = {
+			3874 1
+		}
+	}
+	provinces = {
+		794 874 3874 6867 9770 13221
+	}
+	local_supplies = 0.0
+}

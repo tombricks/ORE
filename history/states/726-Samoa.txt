@@ -1,0 +1,16 @@
+state = {
+	id = 726
+	name = "STATE_726"
+	manpower = 123214
+	history = {
+		owner = NZL
+		add_core_of = SAM
+		victory_points = {
+			7290 1
+		}
+	}
+	provinces = {
+		7290 13080
+	}
+	local_supplies = 0.0
+}

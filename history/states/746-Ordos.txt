@@ -1,0 +1,22 @@
+state = {
+	id = 746
+	name = "STATE_746"
+	manpower = 500000
+	history = {
+		owner = SHX
+		add_core_of = SHX
+		add_core_of = CHI
+		add_core_of = PRC
+		add_core_of = MEN
+		victory_points = {
+			3427 1
+		}
+		victory_points = {
+			10854 1
+		}
+	}
+	provinces = {
+		1959 3427 4960 4986 10451 10854 12706
+	}
+	local_supplies = 0.0
+}

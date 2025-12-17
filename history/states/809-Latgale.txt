@@ -1,0 +1,19 @@
+state = {
+	id = 809
+	name = "STATE_809"
+	manpower = 215500
+	history = {
+		owner = LAT
+		add_core_of = LAT
+		victory_points = {
+			310 3
+		}
+		victory_points = {
+			222 1
+		}
+	}
+	provinces = {
+		265 3255 3525 6222 6342 11358
+	}
+	local_supplies = 0.0
+}

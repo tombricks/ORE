@@ -1,0 +1,13 @@
+state = {
+	id = 1013
+	name = "STATE_1013"
+	manpower = 33600
+	history = {
+		owner = OMA
+		add_core_of = OMA
+	}
+	provinces = {
+		13369
+	}
+	local_supplies = 0.0
+}

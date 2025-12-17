@@ -1,0 +1,16 @@
+state = {
+	id = 153
+	name = "STATE_153"
+	manpower = 1500986
+	history = {
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			673 5
+		}
+	}
+	provinces = {
+		668 671 673 3675 6673 9633 9636 11618 11634
+	}
+	local_supplies = 0.0
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 342
+	name = "STATE_342"
+	manpower = 362689
+	history = {
+		owner = TUR
+		add_core_of = TUR
+		victory_points = {
+			1005 5
+		}
+	}
+	provinces = {
+		1005 1119 9941 10122 11917 12013 12016 12096
+	}
+	local_supplies = 0.0
+}
